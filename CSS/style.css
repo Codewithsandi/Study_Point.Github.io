@@ -102,7 +102,10 @@ html {
     font-size: 1.5rem;
     color: white;
 }
-
+#home button a {
+    text-decoration: none;
+    color: black;
+}
 #home button:hover {
     background-color: cyan;
     color: black;
